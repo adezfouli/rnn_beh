@@ -1,0 +1,73 @@
+#Mac
+nongit/
+
+/doc/paper/*.pdf
+
+.DS_Store
+
+/nongit
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+#python
+*.pyc
+*.pyo
+
+.Rhistory
+
+icml-2017/tex/*.pdf
+techr/*.pdf
+nips-2017/tex/*.pdf
+
+# Latex files
+
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.tui
+*.top
+*.tmp
+*.mp
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+
+
+# Mac IDE files
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
+
+# Mac finder files and hidden folders
+.DS_Store
+
+results/
+venv/
